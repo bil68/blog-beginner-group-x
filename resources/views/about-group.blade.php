@@ -14,6 +14,10 @@
                                 class="w-32 h-32 rounded-full mx-auto mb-2">
                             <h3 class="font-semibold">Bilal</h3>
                             <p class="text-gray-500">NIM: 235150607111001</p>
+                            <p class="text-gray-500">Bilal
+235150607111001
+
+Seorang mahasiswa jurusan pendidikan teknologi informasi angkatan 23 fakultas ilmu komputer universitas brawijaya. Anaknya terkenal pendiam sih tapi sebenarnya baik kok😇</p>
                         </div>
 
                         <!-- Anggota 2 -->
