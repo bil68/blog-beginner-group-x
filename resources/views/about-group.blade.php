@@ -22,6 +22,7 @@
                                 class="w-32 h-32 rounded-full mx-auto mb-2">
                             <h3 class="font-semibold">Risma Aullia Zairull Ikhrom</h3>
                             <p class="text-gray-500">NIM: 87654321</p>
+                            <p class="text-gray-500">Helow nama aku Risma Aullia Zairull Ikhrom, tapi gasuka dipanggil Risma sukanya Ima. Aku tuh suuuuka banget baca Webtoon, udah kayak ritual harian, dan punya goal buat taun ini baca 5000 episode. OIYA spotipi wrapped kemaren gweh masuk top 0.005% listeners The Black Skirts dong angzay 😎🫵, ai lov TBS. Sekarang lagi sibuk volunteeran dan ngerajut biar ga galo terus.</p>
                         </div>
 
                         <!-- Anggota 3 -->
